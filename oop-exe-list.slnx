@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalcCyliVol.ConsoleApp/CalcCiliVol.ConsoleApp.csproj" />
+  <Project Path="CalcRectVol.ConsoleApp/CalcRectVol.ConsoleApp.csproj" />
+</Solution>

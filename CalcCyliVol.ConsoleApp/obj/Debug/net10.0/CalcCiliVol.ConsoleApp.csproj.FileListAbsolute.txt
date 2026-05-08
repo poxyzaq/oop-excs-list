@@ -1,0 +1,14 @@
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.AssemblyInfoInputs.cache
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.AssemblyInfo.cs
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/bin/Debug/net10.0/CalcCiliVol.ConsoleApp
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/bin/Debug/net10.0/CalcCiliVol.ConsoleApp.deps.json
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/bin/Debug/net10.0/CalcCiliVol.ConsoleApp.runtimeconfig.json
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/bin/Debug/net10.0/CalcCiliVol.ConsoleApp.dll
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/bin/Debug/net10.0/CalcCiliVol.ConsoleApp.pdb
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.dll
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/refint/CalcCiliVol.ConsoleApp.dll
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.pdb
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/CalcCiliVol.ConsoleApp.genruntimeconfig.cache
+/home/poxy/oop-exe-list/CalcCiliVol.ConsoleApp/obj/Debug/net10.0/ref/CalcCiliVol.ConsoleApp.dll
