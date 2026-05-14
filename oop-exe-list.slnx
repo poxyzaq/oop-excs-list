@@ -1,4 +1,11 @@
 <Solution>
   <Project Path="CalcCyliVol.ConsoleApp/CalcCiliVol.ConsoleApp.csproj" />
+  <Project Path="CalcOilCanVolume.ConsoleApp/CalcOilCanVolume.ConsoleApp.csproj" />
   <Project Path="CalcRectVol.ConsoleApp/CalcRectVol.ConsoleApp.csproj" />
+  <Project Path="CalcSphereVolume.ConsoleApp/CalcSphereVolume.ConsoleApp.csproj" />
+  <Project Path="CalcWeightedMean.ConsoleApp/CalcWeightedMean.ConsoleApp.csproj" />
+  <Project Path="ConvCelsToFahr.ConsoleApp/ConvCelsToFahr.ConsoleApp.csproj" />
+  <Project Path="FuelConsumption.ConsoleApp/FuelConsumption.ConsoleApp.csproj" />
+  <Project Path="HarmonicMeanOfGrades.ConsoleApp/HarmonicMeanOfGrades.ConsoleApp.csproj" />
+  <Project Path="SellerTotalSalary.ConsoleApp/SellerTotalSalary.ConsoleApp.csproj" />
 </Solution>

@@ -1,0 +1,15 @@
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/bin/Debug/net10.0/ConvCelsToFahr.ConsoleApp
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/bin/Debug/net10.0/ConvCelsToFahr.ConsoleApp.deps.json
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/bin/Debug/net10.0/ConvCelsToFahr.ConsoleApp.runtimeconfig.json
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/bin/Debug/net10.0/ConvCelsToFahr.ConsoleApp.dll
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/bin/Debug/net10.0/ConvCelsToFahr.ConsoleApp.pdb
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.AssemblyInfoInputs.cache
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.AssemblyInfo.cs
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.sourcelink.json
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.dll
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/refint/ConvCelsToFahr.ConsoleApp.dll
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.pdb
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ConvCelsToFahr.ConsoleApp.genruntimeconfig.cache
+/home/poxy/oop-excs-list/ConvCelsToFahr.ConsoleApp/obj/Debug/net10.0/ref/ConvCelsToFahr.ConsoleApp.dll

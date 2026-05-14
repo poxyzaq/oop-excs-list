@@ -1,0 +1,15 @@
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/bin/Debug/net10.0/CalcSphereVolume.ConsoleApp
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/bin/Debug/net10.0/CalcSphereVolume.ConsoleApp.deps.json
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/bin/Debug/net10.0/CalcSphereVolume.ConsoleApp.runtimeconfig.json
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/bin/Debug/net10.0/CalcSphereVolume.ConsoleApp.dll
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/bin/Debug/net10.0/CalcSphereVolume.ConsoleApp.pdb
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.AssemblyInfoInputs.cache
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.AssemblyInfo.cs
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.sourcelink.json
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.dll
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/refint/CalcSphereVolume.ConsoleApp.dll
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.pdb
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/CalcSphereVolume.ConsoleApp.genruntimeconfig.cache
+/home/poxy/oop-excs-list/CalcSphereVolume.ConsoleApp/obj/Debug/net10.0/ref/CalcSphereVolume.ConsoleApp.dll
